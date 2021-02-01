@@ -1,0 +1,42 @@
+body{
+    background-image: url('https://i.pinimg.com/564x/fe/4c/d2/fe4cd27cf1c06e976bf8d1c7887cf66c.jpg');
+    background-position: center;
+    color:black;
+  
+}
+.border{ 
+
+    border-style:solid;
+    background-color: #e0a639;
+}
+  .container-fluid
+  {position: absolute;
+      position:fixed;
+    background-color: #e0a639;
+    height: 70px;
+    top:0%;
+  }
+
+  .center_text{
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-size: 120%;
+  }
+ 
+  .image img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.rounded-circle{ 
+    
+    width: 100%;}
+
+ #icon_image { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;}
+
